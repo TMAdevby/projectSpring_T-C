@@ -1,4 +1,4 @@
-package ru.netology.tacos;
+package tacos;
 
 import lombok.Data;
 

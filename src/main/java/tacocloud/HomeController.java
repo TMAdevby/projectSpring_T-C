@@ -1,4 +1,4 @@
-package ru.netology.tacocloud;
+package tacocloud;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
