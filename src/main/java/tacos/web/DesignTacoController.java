@@ -58,7 +58,7 @@ public void addIngredientsToModel(Model model) {
     return "design";
   }
 
-/*
+
   @PostMapping
   public String processTaco(Taco taco,
   			@ModelAttribute TacoOrder tacoOrder) {
@@ -67,7 +67,7 @@ public void addIngredientsToModel(Model model) {
 
     return "redirect:/orders/current";
   }
- */
+
 
   @PostMapping
   public String processTaco(
